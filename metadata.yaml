@@ -1,0 +1,29 @@
+_repo: From-Isolation-to-Leadership-RevisedA-Review-of-American-Foreign-Policy_18553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latané, John Holladay
+    alias: Latane, John Holladay
+    birthdate: 1869
+    deathdate: 1932
+    gutenberg_agent_id: '8106'
+    url: http://www.gutenberg.org/2009/agents/8106
+description: ''
+gutenberg_issued: '2006-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations'
+- !lcc 'JX'
+title: 'From Isolation to Leadership, Revised
+
+  A Review of American Foreign Policy'
+url: http://www.gutenberg.org/ebooks/18553
